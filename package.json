@@ -31,7 +31,7 @@
     "ejson": "^2.1.2",
     "js-base64": "^2.4.8",
     "js-sha256": "^0.9.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.11",
     "markdown-it-flowdock": "^0.3.7",
     "moment": "^2.22.2",
     "prop-types": "^15.6.2",
