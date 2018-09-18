@@ -75,7 +75,7 @@
     "redux-saga": "^0.16.0",
     "regenerator-runtime": "^0.12.1",
     "rn-fetch-blob": "^0.10.12",
-    "snyk": "^1.90.0",
+    "snyk": "^1.96.0",
     "strip-ansi": "^4.0.0"
   },
   "devDependencies": {
